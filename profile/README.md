@@ -47,7 +47,6 @@ Além da operação de redes, desenvolvo ferramentas para automação, observabi
 - BGP
 - FTTH / GPON
 - CGNAT
-- IX.br
 - Network Automation
 - Go (Golang)
 - Python
