@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou engenheiro de infraestrutura de redes especializado em ambientes de provedores de internet (ISP), atuando com backbone, BGP, MPLS, FTTH/GPON, CGNAT, IX.br e datacenters.
+Sou analsita de infraestrutura de redes especializado em ambientes de provedores de internet (ISP), atuando com backbone, BGP, MPLS, FTTH/GPON, CGNAT, IX.br e datacenters.
 
 Além da operação de redes, desenvolvo ferramentas para automação, observabilidade e gestão de infraestrutura utilizando **Go (Golang)** e **Python**, buscando transformar processos operacionais em aplicações escaláveis.
 
